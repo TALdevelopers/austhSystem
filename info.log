@@ -1,0 +1,10 @@
+{"level":"error","message":"test@test.com has logged out","timestamp":"2022-07-14T13:33:09.553Z"}
+{"level":"info","message":"User has logged in","timestamp":"2022-07-14T13:33:11.278Z"}
+{"level":"error","message":"undefined has logged out","timestamp":"2022-07-14T13:34:44.549Z"}
+{"level":"error","message":"tal devs has logged out","timestamp":"2022-07-14T13:36:36.245Z"}
+{"level":"error","message":"tal devs has logged out","timestamp":"2022-07-14T13:37:45.494Z"}
+{"level":"error","message":"test@test.com has logged out","timestamp":"2022-07-14T13:38:58.638Z"}
+{"level":"error","message":"tal devs has logged out","timestamp":"2022-07-14T13:40:02.724Z"}
+{"level":"info","message":"test@test.com has logged in","timestamp":"2022-07-14T13:42:35.090Z"}
+{"level":"error","message":"test@test.com has logged out","timestamp":"2022-07-14T13:42:39.510Z"}
+{"level":"error","message":"tal devs has logged out","timestamp":"2022-07-14T13:44:07.129Z"}
